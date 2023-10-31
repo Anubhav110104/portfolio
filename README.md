@@ -1,2 +1,2 @@
 # Portfolio
- "Welcome to my digital portfolio, where I have shown some of my creativities and skills."
+"Welcome to my digital portfolio, where I have shown some of my creativities and skills."
